@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-blue-200 p-4">
-      <h1 className="text-4xl font-bold mb-6 text-center">
+      <h1 className="md:text-4xl md:font-bold text-2xl font-medium mb-6 text-center">
         Welcome To Quotes Generator
       </h1>
       <div className="bg-white p-6 rounded-lg shadow-lg w-full max-w-md">
